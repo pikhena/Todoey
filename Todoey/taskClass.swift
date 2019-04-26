@@ -8,7 +8,7 @@
 
 import Foundation
 
-class taskClass {
+class taskClass: Codable {
     
  
     var taskName : String =  ""
